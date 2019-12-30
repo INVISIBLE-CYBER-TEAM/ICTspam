@@ -62,16 +62,15 @@ function post_data($url,$data) {
                   |_|
 ";
 
-echo $G."\n========[]INDOnimous Cyber Team SPAMER[]========".$X."\n";
+echo $G."\n========[]SALAFI CYBER MUSLIM SPAMER[]========".$X."\n";
 echo  $YY. $B."\n::###############################################";
 echo $R."\n::############[WELCOME:MY:HOME]##################";
 echo $YY."\n::#:                                            #";
-echo $BB."\n::#:Penutor  ::[INDNimous:or:Rival]             #";
-echo $B."\n::#:Website  ::[https://indonimous.blogspot.com]#";
-echo $RR."\n::#:Github   ::[http://github.com/INDOnimous:]  #";
-echo $R."\n::#:Facebook ::[INDOnimous:or:Rival:]           #";
-echo $G."\n::#:YouTube  ::[INDOnimous:]                    #";
-echo $GG."\n::#:Whatsapp ::[0857 0852 2075]                 #";
+echo $BB."\n::#:Penutor  ::[Author:or:MR.3]             #";
+echo $RR."\n::#:Github   ::[http://github.com/Mamang-hack:]  #";
+echo $R."\n::#:Facebook ::[SALAFIcyber:or:MR.3:]           #";
+echo $G."\n::#:YouTube  ::[SALAFI.CYBER.MUSLIM:]                    #";
+echo $GG."\n::#:Whatsapp ::[0857 8129 1915]                 #";
 echo $YY."\n::#:                                            #";
 echo $R."\n::###########[THANKS:YOU:FOR:WATCHING]###########";
 echo $B."\n::###############################################".$G.$X."\n\n";
