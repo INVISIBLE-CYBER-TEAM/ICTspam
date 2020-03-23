@@ -1,2 +1,2 @@
-# Mamangspam
+# ICT SPAM
 Update2020
